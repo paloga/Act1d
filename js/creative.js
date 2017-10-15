@@ -47,7 +47,7 @@
     delay: 200
   });
   sr.reveal('.sr-contact', {
-    duration: 600,
+    duration: 599,
     scale: 0.3,
     distance: '0px'
   }, 300);
