@@ -25,7 +25,7 @@ a {
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
   a:focus, a:hover {
-    color: #f05f44; }
+    color: #f05f40; }
 
 h1,
 h2,
@@ -45,7 +45,7 @@ p {
 
 .bg-dark {
   color: white;
-  background-color: #222220 !important; }
+  background-color: #222222 !important; }
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
