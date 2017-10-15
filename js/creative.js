@@ -49,8 +49,8 @@
   sr.reveal('.sr-contact', {
     duration: 599,
     scale: 0.3,
-    distance: '0px'
-  }, 300);
+    distance: '1px'
+  }, 200);
 
   // Magnific popup calls
   $('.popup-gallery').magnificPopup({
